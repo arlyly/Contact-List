@@ -1,4 +1,3 @@
-import React from "react";
 function ContactRow({ contact }) {
     return (
         <>
